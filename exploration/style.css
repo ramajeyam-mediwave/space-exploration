@@ -1,11 +1,15 @@
 body{
     color: white;
-    background-image: url("universe.jpg");
+    background-image: url("giphy.gif");
     background-size: cover;
     text-align: center;
     font-family: 'Teko', sans-serif;
     font-family: 'Ubuntu', sans-serif;
     
+}
+
+#main-logo{
+    width: 200px;
 }
 
 .btn{
